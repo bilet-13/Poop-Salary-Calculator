@@ -1,12 +1,14 @@
-# React + Vite
+# 💩 Poop Salary Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and simple React app that calculates how much money you're earning in real time — even while you're on the toilet 🧻. Built with [React](https://react.dev) and [Vite](https://vitejs.dev) for fast development and hot module reloading.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ⏱️ Live earnings counter based on your annual salary
+- 🧮 Real-time calculation of money earned per second
+- 🧼 Clean and minimal UI
+- 🪄 Built with modern tools (Vite + React)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
